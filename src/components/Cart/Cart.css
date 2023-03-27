@@ -1,0 +1,25 @@
+.cart {
+    background: rgba(255, 153, 0, 0.3);
+    padding: 35px 25px;
+    position: sticky;
+    top: 0;
+    right: 0;
+    max-height: 100vh;
+    height: 100%;
+}
+
+.cart h3 {
+    font-size: 24px;
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+
+.cart p {
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+.cart h4 {
+    font-size: 21px;
+    font-weight: 400;
+}
